@@ -1,0 +1,22 @@
+baseURL = "https://nishikirei.com/"
+languageCode = "en-us"
+theme = "hugo-coder"
+
+[params]
+    author = "nishi kirei codeworks"
+    info = "systems consulting"
+    avatarurl = "/img/logo.png"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "contact: kit at nishikirei.com"
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    colorscheme = "dark"
+    custom_css = ["css/custom.css"]
+
